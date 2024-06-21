@@ -9,30 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+**Ph.D in Physics**, UC Berkeley, 2014
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**B.A. in Physics and Mathematics**, UC Berkeley, 2007
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+---
+
+## Research Experience
+
+**Stanford University, Molecular and Cellular Physiology**  
+*Postdoctoral Scholar*  
+_Sep. 2018 – Present_
+- Developed large-scale statistical inference and machine learning of transcriptional noise changes with age, particularly in single-cell RNA sequencing atlases and spatial transcriptomic atlases.
+- Designed and built a high-speed super-resolution microscope achieving single vesicle (gold nanoparticle) reaching record performance of 0.2 nm in 100 µs.
+- Pioneered new ultrasound multimolecular imaging for deep tissue detection of healthy and diseased cells.
+- Conducted bioinformatic analysis of proteomics, CRISPRi screens, and patient RNA seq for oncology collaborators working on novel immunotherapy checkpoints (sialic acid-Siglec) in prostate cancer.
+
+**Marine Biology Laboratory, Physiology Course**  
+*Student*  
+_June 2018 – July 2018_  
+- Intensive crash course on modern microscopy, computational biology, and biological techniques.
+
+**JILA, NIST and the University of Colorado, Boulder**  
+*NRC Postdoctoral Fellow and Research Associate*  
+_Aug. 2014 – May 2018_  
+- Designed, constructed, and demonstrated a next-generation atomic clock, a 3D lattice clock, from project conception to 3 parts in 10^19, a world record, with five incredible colleagues and friends.
+- Demonstrated the most accurate atomic clock (2 parts in 10^18), a record held from 2014 to 2018.
+
+**University of California, Berkeley**  
+*Graduate Student Researcher and Hertz Fellow*  
+_Aug. 2008 – Aug. 2014_  
+- Designed and constructed a Bose-Einstein condensate experiment from the ground up with four fantastic colleagues.
+- Conceived and implemented new precision tests of universal magnetic properties.
+
+---
+
+## Honors and awards
+
+**NRC Postdoctoral Fellowship**  
+_Aug. 2014 – May 2018_  
+Awarded for postdoctoral research at JILA, NIST, and the University of Colorado, Boulder.
+
+**Fannie & John Hertz Foundation Fellow**  
+_Aug. 2008 – Aug. 2014_  
+Awarded to 15 recipients nationally for demonstrating exceptional potential in the physical sciences.
+
+**Chancellor’s Fellowship**  
+_Aug. 2008 – Aug. 2010_  
+Awarded a 2-year fellowship for outstanding academic achievement and research potential.
+
+**Phi Beta Kappa**  
+_Aug. 2003 – May 2007_  
+Inducted in junior year, awarded to 20 recipients at UC Berkeley for academic excellence.
+
+---
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +95,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

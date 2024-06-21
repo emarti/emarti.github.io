@@ -25,7 +25,7 @@ author:
   name             : "Edward Marti"
   pronouns         : "he/him"  
   bio              : "Physicist-turned-biologist developing innovative imaging tools for the life sciences"
-  location         : "Stanford"
+  location         : "Stanford, CA, USA"
   employer         : "Stanford University"
   uri              : # URL
   email            : "emarti@stanford.edu" 
@@ -210,6 +210,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
 
