@@ -10,13 +10,6 @@ main:
   - title: "CV"
     url: /cv/
 
-
-  - title: "Gallery"
-    url: /gallery/
-
-  - title: "Test page"
-    url: /test/
-  
   # - title: "Talks"
   #   url: /talks/    
 
@@ -29,8 +22,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
 
   # - title: "Contact"
   #   url: /contact/
